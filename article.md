@@ -8,7 +8,7 @@ canonical_link: "https://medium.com/@kyle-t-jones/structural-break-analysis-in-r
 # Structural Break Analysis in Rolling Kendall Tau and Spearman Correlations in US Sentiment on... In digital humanities, computational methods enable the detection of
 shifts in discourse over time. This study uses structural break...
 
-### **Structural Break Analysis in Rolling Kendall Tau and Spearman Correlations in US Sentiment on Economic and Political Terms from 1850--1963**
+### Structural Break Analysis in Rolling Kendall Tau and Spearman Correlations in US Sentiment on Economic and Political Terms from 1850--1963
 In digital humanities, computational methods enable the detection of shifts in discourse over time. This study uses structural break analysis on rolling Kendall Tau and Spearman correlations to identify regime changes in US sentiment of economic and political terms. Change point detection on the correlations provides insights into how relationships between economic terms and other discourses evolve, revealing structural shifts in economic narratives.
 
 ### Methodology
