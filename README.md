@@ -11,14 +11,7 @@ The primary dataset for this study consists of historical newspapers from *Chron
 
 To quantify sentiment trends, we applied VADER, a lexicon-based sentiment analysis tool optimized for short texts. Each article's sentiment was classified along a polarity spectrum, and aggregated to construct yearly sentiment indices for our four key topics.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
